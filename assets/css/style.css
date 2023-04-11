@@ -160,6 +160,11 @@ article img {
   gap: 1rem;
 }
 
+.news article{
+  margin: 10px 0;
+}
+
+
 .article a{
   font-weight: bold;
   color: var(--Very-dark-blue);
