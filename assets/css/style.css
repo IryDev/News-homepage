@@ -137,6 +137,14 @@ p {
   color: var(--Soft-orange);
 }
 
+.news a{
+  font-weight: bold;
+}
+
+.news a:hover{
+  color: var(--Soft-orange);
+}
+
 article img {
   width: 100px;
 }
