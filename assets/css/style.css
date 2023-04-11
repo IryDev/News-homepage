@@ -111,6 +111,10 @@ p {
   letter-spacing: 3px;
 }
 
+.subtitle a:hover {
+  background-color: var(--Very-dark-blue);
+}
+
 .subtitle p {
   color: var(--Very-dark-blue);
   line-height: 1.5;
@@ -146,6 +150,15 @@ article img {
 .article {
   display: flex;
   gap: 1rem;
+}
+
+.article a{
+  font-weight: bold;
+  color: var(--Very-dark-blue);
+}
+
+.article a:hover{
+  color: var(--Soft-red);
 }
 
 .article div{
