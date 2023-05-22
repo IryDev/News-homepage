@@ -58,5 +58,5 @@ Although i made progress, i want to continue focusing on the grid display and kn
 
 ## Author
 
-- Website - [Irycode](https:/github.com/IryCode)
+- Website - [Irycode](https:/github.com/IryDev)
 - Frontend Mentor - [@IryCode](https://www.frontendmentor.io/profile/IryCode)
