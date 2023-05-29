@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [My solution live site](https://irycode.github.io/News-homepage/)
+- Live Site URL: [My solution live site](https://irydev.github.io/News-homepage/)
 
 ## My process
 
@@ -58,5 +58,5 @@ Although i made progress, i want to continue focusing on the grid display and kn
 
 ## Author
 
-- Website - [Irycode](https:/github.com/IryDev)
-- Frontend Mentor - [@IryCode](https://www.frontendmentor.io/profile/IryCode)
+- Website - [IryDev](https:/github.com/IryDev)
+- Frontend Mentor - [@IryDev](https://www.frontendmentor.io/profile/IryCode)
