@@ -25,7 +25,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-<img width="1398" alt="homepage news" src="https://user-images.githubusercontent.com/86270481/231308357-5fd3f23a-7e04-4ec3-9c7e-a94bd41e457a.png">
+<img width="1398" alt="frontendmentor homepage news irydev" src="https://user-images.githubusercontent.com/86270481/231308357-5fd3f23a-7e04-4ec3-9c7e-a94bd41e457a.png">
 
 ### Links
 
